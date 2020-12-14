@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{A97FB5CC-E109-4B00-B3EB-3B3DE5800CE0}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="fitnessNeumorphicUI2/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml">
     <Files>
-      <File FileName="fitnessNeumorphicUI2/Controls/CustomNeumorphicVerticalProgressBar.xaml.cs" Line="34" Column="55" />
+      <File FileName="fitnessNeumorphicUI2/Controls/CustomNeumorphicVerticalProgressBar.xaml.cs" Line="102" Column="76" />
       <File FileName="fitnessNeumorphicUI2/Controls/CustomNeumorphicVerticalProgressBar.xaml" />
-      <File FileName="fitnessNeumorphicUI2/MainPage.xaml" Line="49" Column="1" />
+      <File FileName="fitnessNeumorphicUI2/MainPage.xaml" />
       <File FileName="fitnessNeumorphicUI2/MainPage.xaml.cs" />
-      <File FileName="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml" />
+      <File FileName="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml" Line="13" Column="27" />
       <File FileName="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml.cs" />
     </Files>
     <Pads>
@@ -15,9 +15,9 @@
             <Node name="fitnessNeumorphicUI2" expanded="True">
               <Node name="Controls" expanded="True">
                 <Node name="CustomNeumorphicVerticalProgressBar.xaml" expanded="True" />
-                <Node name="NeumorphicSquare.xaml" expanded="True" />
+                <Node name="NeumorphicSquare.xaml" expanded="True" selected="True" />
               </Node>
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
             <Node name="fitnessNeumorphicUI2.Android" expanded="True" />
             <Node name="fitnessNeumorphicUI2.iOS" expanded="True" />

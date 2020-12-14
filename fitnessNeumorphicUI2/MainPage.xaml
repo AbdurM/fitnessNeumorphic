@@ -15,7 +15,7 @@
             <Style TargetType="neo:NeoFrame">
                 <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}"/>
             </Style>
-        </StackLayout.Resources>
+     </StackLayout.Resources>
 
      <!--Header Section-->
      <StackLayout Margin="0,60,0,0" HorizontalOptions="FillAndExpand" VerticalOptions="Start" Orientation="Horizontal">
@@ -44,10 +44,10 @@
          </Grid.RowDefinitions>
 
              <Label
-                 Grid.RowSpan="2"
-                    Text="Day 1"
-                    VerticalOptions="Center"
-                    FontSize="35"/>
+                Grid.RowSpan="2"
+                Text="Day 1"
+                VerticalOptions="Center"
+                FontSize="35"/>
 
               <Label
                   Grid.Row="2"
@@ -57,6 +57,7 @@
                   FontAttributes="Bold"
                   TextColor="{StaticResource PrimaryLightTextColor}"
                   FontSize="15"/>
+
             <!-- Next Button-->
             <neo:NeoFrame
                 Grid.Column="1"
@@ -67,10 +68,13 @@
                 VerticalOptions="Center"
                 CornerRadius="55"
                 Elevation="0.15"
-                 ShadowBlur="15"
+                ShadowBlur="15"
                 BackgroundColor="{StaticResource PrimaryColor}">
-
-                   <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Next" FontSize="15" FontAttributes="Bold"/>
+                   <Label
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       Text="Next" FontSize="15"
+                       FontAttributes="Bold"/>
             </neo:NeoFrame>
         </Grid>
 

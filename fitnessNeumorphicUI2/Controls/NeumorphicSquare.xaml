@@ -9,10 +9,10 @@
         WidthRequest="70"
         HorizontalOptions="Start"
         CornerRadius="20"
-    Elevation="0.10"
-            ShadowBlur="12"
+        Elevation="0.10"
+        ShadowBlur="12"
         Clicked="NeoButton_Clicked"
-    ClickMode="Toggle"
+        ClickMode="Toggle"
         BackgroundColor="{StaticResource PrimaryColor}">
         <Image
             x:Name="InternalImageView"

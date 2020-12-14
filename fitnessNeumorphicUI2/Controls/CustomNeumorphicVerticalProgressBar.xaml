@@ -43,6 +43,7 @@
             HorizontalOptions="Center"
             TextColor="{StaticResource PrimaryLightTextColor}"
             FontAttributes="Bold"/>
+
         <Label
             x:Name="ProgressPercentage"
             Margin="4,10,0,0"
