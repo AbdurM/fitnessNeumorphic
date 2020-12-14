@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="fitnessNeumorphicUI2.Controls.CustomNeumorphicVerticalProgressBar"
+    xmlns:neo="clr-namespace:Xamarin.Forms.NeoControls;assembly=Xamarin.Forms.NeoControls"
+    xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView" >
+    <ContentView.Content>
+        <StackLayout
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="FillAndExpand"
+            Padding="0"
+            Spacing="0"
+            HeightRequest="280"
+            WidthRequest="60">
+
+         <neo:NeoFrame
+                x:Name="ProgressFrame"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="Center"
+                WidthRequest="60"
+                CornerRadius="80"
+                Margin="0"
+                ShadowDrawMode="InnerOnly"
+                DarkShadowColor="DarkSlateGray"
+                LightShadowColor="White"
+                BackgroundColor="{StaticResource PrimaryColor}">
+            <yummy:PancakeView
+                x:Name="ProgressColorBar"
+                Opacity="0.5"
+                WidthRequest="40"
+                Margin="0,10"
+                CornerRadius="20"
+                HeightRequest="250"
+                HorizontalOptions="Center"
+                VerticalOptions="EndAndExpand"/>
+        </neo:NeoFrame>
+
+        <Label
+            x:Name="TypeLabel"
+            Margin="0,10,0,0"
+            FontSize="14"
+            HorizontalOptions="Center"
+            TextColor="{StaticResource PrimaryLightTextColor}"
+            FontAttributes="Bold"/>
+        <Label
+            x:Name="ProgressPercentage"
+            Margin="4,10,0,0"
+            HorizontalOptions="Center"
+            FontAttributes="Bold"
+            TextColor="{StaticResource PrimaryMediumTextColor}"/>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

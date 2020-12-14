@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<neo:NeoButton
+        xmlns="http://xamarin.com/schemas/2014/forms"
+        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        x:Class="fitnessNeumorphicUI2.Controls.NeumorphicSquare"
+        xmlns:neo="clr-namespace:Xamarin.Forms.NeoControls;assembly=Xamarin.Forms.NeoControls"
+        x:Name="neo_button"
+        HeightRequest="70"
+        WidthRequest="70"
+        HorizontalOptions="Start"
+        CornerRadius="20"
+    Elevation="0.10"
+            ShadowBlur="12"
+        Clicked="NeoButton_Clicked"
+    ClickMode="Toggle"
+        BackgroundColor="{StaticResource PrimaryColor}">
+        <Image
+            x:Name="InternalImageView"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            HeightRequest="30"
+            Aspect="AspectFit"/>
+</neo:NeoButton>

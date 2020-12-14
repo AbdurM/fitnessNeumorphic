@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4nGBTRhzmp7qlC+BLlrk25xTUrhZchEVOE33zj3/k6aPieiUefoS/UGy3TwxMXpjPDp0FFxmDMX0/vQZj5u7Q==",
+  "success": true,
+  "projectFilePath": "/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2.iOS/fitnessNeumorphicUI2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdurmohammed/.nuget/packages/skiasharp/1.68.1.1/skiasharp.1.68.1.1.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/skiasharp.views/1.68.1.1/skiasharp.views.1.68.1.1.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/skiasharp.views.forms/1.68.1.1/skiasharp.views.forms.1.68.1.1.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.forms.neocontrols/1.1.0-pre/xamarin.forms.neocontrols.1.1.0-pre.nupkg.sha512",
+    "/Users/abdurmohammed/.nuget/packages/xamarin.forms.pancakeview/2.3.0.763-beta/xamarin.forms.pancakeview.2.3.0.763-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

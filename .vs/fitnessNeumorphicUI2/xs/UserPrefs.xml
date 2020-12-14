@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A97FB5CC-E109-4B00-B3EB-3B3DE5800CE0}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fitnessNeumorphicUI2/MainPage.xaml">
+    <Files>
+      <File FileName="fitnessNeumorphicUI2/Controls/CustomNeumorphicVerticalProgressBar.xaml.cs" Line="34" Column="55" />
+      <File FileName="fitnessNeumorphicUI2/Controls/CustomNeumorphicVerticalProgressBar.xaml" />
+      <File FileName="fitnessNeumorphicUI2/MainPage.xaml" Line="49" Column="1" />
+      <File FileName="fitnessNeumorphicUI2/MainPage.xaml.cs" />
+      <File FileName="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml" />
+      <File FileName="fitnessNeumorphicUI2/Controls/NeumorphicSquare.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fitnessNeumorphicUI2" expanded="True">
+            <Node name="fitnessNeumorphicUI2" expanded="True">
+              <Node name="Controls" expanded="True">
+                <Node name="CustomNeumorphicVerticalProgressBar.xaml" expanded="True" />
+                <Node name="NeumorphicSquare.xaml" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="fitnessNeumorphicUI2.Android" expanded="True" />
+            <Node name="fitnessNeumorphicUI2.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.fitnessNeumorphicUI2.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.fitnessNeumorphicUI2.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D934700-269D-48C8-BD2D-E5F6419EA079" />
+</Properties>

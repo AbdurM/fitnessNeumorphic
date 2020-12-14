@@ -1,0 +1,16 @@
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/bin/Debug/netstandard2.0/fitnessNeumorphicUI2.deps.json
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/bin/Debug/netstandard2.0/fitnessNeumorphicUI2.dll
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/bin/Debug/netstandard2.0/ref/fitnessNeumorphicUI2.dll
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/bin/Debug/netstandard2.0/fitnessNeumorphicUI2.pdb
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/Controls/CustomNeumorphicVerticalProgressBar.xaml.g.cs
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/Controls/NeumorphicSquare.xaml.g.cs
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.AssemblyInfoInputs.cache
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.AssemblyInfo.cs
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.csproj.CoreCompileInputs.cache
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.dll
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/ref/fitnessNeumorphicUI2.dll
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.pdb
+/Users/abdurmohammed/Projects/fitnessNeumorphicUI2/fitnessNeumorphicUI2/obj/Debug/netstandard2.0/fitnessNeumorphicUI2.csprojAssemblyReference.cache
